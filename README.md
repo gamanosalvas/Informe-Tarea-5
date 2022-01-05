@@ -143,8 +143,6 @@ Ejercicios Capitulo 10
 
 • Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
 
-• El principio de Millán resulta cuando se tiene un circuito con solo dos nodos, es lo mismo se tienen dos resistencias en paralelo
-
 
 6. Bibliografia:
 

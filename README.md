@@ -13,12 +13,15 @@ Docente: Ing. Darwin Alulema
 Tema: Cap 9 y 10 del libro PPrincipios de circuitos electricos
 
 1. Objetivos:
+
 Generales
+
 • Aprender a utilizar algunos de los teoremas básicos de redes que nos permitirán analizar incluso redes resistivas más complejas.
 
 • Analizar el concepto de capacitor y capacitancia y los usos que se les da en Eléctrica y Electrónica.
 
 Especificos
+
 • Aplicar correctamente el teorema de superposición para determinar la corriente o el voltaje en cualquier resistencia de una red dada.
 
 • Analizar el Teorema de Thevenin y determinar un circuito equivalente en cualquier red resistiva.
@@ -36,17 +39,22 @@ Especificos
 • Calcular de manera correcta la capacitancia de combinación de resistores en serie y en paralelo.
 
 2. Marco Teorico:
+
 Capitulo 9
+
 Capitulo 10
 
 3.Explicación y Resolución de ejercicios o problemas:
+
 Ejercicios Capitulo 9
+
 Ejercicios Capitulo 10
 
  4. Video:
 
 
 5. Conclusiones:
+
 • Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
 
 • Se pudo obtener los resultados experimentalmente y teóricamente de los circuitos, a través del teorema de Thévenin
@@ -61,7 +69,6 @@ Ejercicios Capitulo 10
 
 • El principio de Millán resulta cuando se tiene un circuito con solo dos nodos, es lo mismo se tienen dos resistencias en paralelo
 
-• En cualquier rama de una red o circuito, la corriente debida a una única fuente de voltaje (V) en la red es igual a la corriente a través de esa rama en la que se colocó originalmente la fuente cuando la fuente se coloca nuevamente en la rama en la que se obtuvo originalmente la corriente.
 
 6. Bibliografia:
 

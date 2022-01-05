@@ -116,7 +116,9 @@ la polaridad real.
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
 
 ![image](https://user-images.githubusercontent.com/94025287/148304012-9731014b-127e-4ef6-b63b-424b58fa5660.png)
+
 ![image](https://user-images.githubusercontent.com/94025287/148304041-1ddc47da-c472-414b-b259-f2e12ad7c5f3.png)
+
 ![image](https://user-images.githubusercontent.com/94025287/148304069-96436b1c-0b63-4fa4-ae3f-0b22ce94434b.png)
 
 

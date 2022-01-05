@@ -110,7 +110,9 @@ la polaridad real.
 ![image](https://user-images.githubusercontent.com/94025287/148303933-b80a5b91-16cc-4ba1-bf8d-f020bac711e6.png)
 
 ![image](https://user-images.githubusercontent.com/94025287/148303915-a224e275-e32f-4845-9450-1a037d5efad6.png)
+
 ![image](https://user-images.githubusercontent.com/94025287/148303961-89b88352-39a4-41a6-92d7-32b9ce12255f.png)
+
 ![image](https://user-images.githubusercontent.com/94025287/148303990-133d09c3-27fa-400f-97c1-aba1e95898d9.png)
 
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.

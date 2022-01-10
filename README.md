@@ -8,7 +8,7 @@ Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
 
 Carrera: Ing. en Electrónica y Automatización
 
-NRC: 5406
+NRC: 10133
 
 Docente: Ing. Darwin Alulema
 

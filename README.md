@@ -12,7 +12,7 @@ NRC: 5406
 
 Docente: Ing. Darwin Alulema
 
-Tema: Cap 9 del libro PPrincipios de circuitos electricos
+Tema: Cap 9 del libro Principios de circuitos electricos
 
 1. Objetivos:
 

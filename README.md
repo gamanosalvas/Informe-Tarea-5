@@ -40,7 +40,9 @@ Capitulo 9
 
 3.Explicación y Resolución de ejercicios o problemas:
 
-Ejercicios Capitulo 9
+
+Ejercicios: Capitulo 9
+
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
@@ -117,7 +119,33 @@ la polaridad real.
 
 ![image](https://user-images.githubusercontent.com/94025287/148304069-96436b1c-0b63-4fa4-ae3f-0b22ce94434b.png)
 
+23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
+![image](https://user-images.githubusercontent.com/94025287/148788602-786229a7-b5f7-476f-bcc4-9f8d998a4e25.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148788625-137d3f68-0f51-4afa-866c-6e0183aeccbc.png)
+
+25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+![image](https://user-images.githubusercontent.com/94025287/148788702-88ddf1b7-e201-4217-8283-04ba387f8dbb.png)
+
+27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+
+![image](https://user-images.githubusercontent.com/94025287/148788761-63eae69f-f9a3-4ac3-94e1-6e1fcdaf1107.png)
+
+29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+![image](https://user-images.githubusercontent.com/94025287/148788819-7c0b9580-7a5e-4b68-aa8a-f61def68a05a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148788849-3e149c23-bd8d-4dc1-b04b-d9d5fc2f7f92.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148788904-6c1129c7-ecd3-4645-8d85-e6f4367ec4af.png)
+
+31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+
+![image](https://user-images.githubusercontent.com/94025287/148788962-8a043846-bfab-4879-bee9-0147709011ef.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148789029-21868e2c-9cf9-40f3-bed2-aaceeaf7eecc.png)
 
  4. Video:
 

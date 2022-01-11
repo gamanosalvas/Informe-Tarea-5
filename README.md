@@ -121,6 +121,37 @@ la polaridad real.
 
 ![image](https://user-images.githubusercontent.com/94025287/148304069-96436b1c-0b63-4fa4-ae3f-0b22ce94434b.png)
 
+19.- Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/94025287/148964556-58daa165-0033-4280-9e3f-5f83606a3cfa.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964594-367dd9ce-aeac-434b-b149-a9e6ba5f3f96.png)
+
+(POSITIVO A LA DERECHA)
+
+![image](https://user-images.githubusercontent.com/94025287/148964721-85271bd5-d260-4036-9d42-84c006757745.png)
+
+(POSITIVO ABAJO)
+
+![image](https://user-images.githubusercontent.com/94025287/148964776-ece58eaf-0f5e-4ee6-bea7-51a99104a670.png)
+
+(POSITIVO A LA DERECHA)
+
+21.- Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora
+
+![image](https://user-images.githubusercontent.com/94025287/148964857-71af1998-266d-4e04-9447-e4b4544fb644.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964877-ad5c1f62-9b22-4bdb-ab67-343ed6de12fb.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964889-550866ab-3120-4459-90da-33d83fa5c364.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964914-34cea756-c8de-4a63-8c8f-213f487998e4.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964932-81193c81-fb3f-4c51-be2c-b2bb8f8d28fa.png)
+
+![image](https://user-images.githubusercontent.com/94025287/148964944-bef3e012-8591-4526-9645-9e72a99efc16.png)
+
+
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
 ![image](https://user-images.githubusercontent.com/94025287/148788602-786229a7-b5f7-476f-bcc4-9f8d998a4e25.png)

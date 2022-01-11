@@ -181,6 +181,7 @@ la polaridad real.
 ![image](https://user-images.githubusercontent.com/94025287/148789029-21868e2c-9cf9-40f3-bed2-aaceeaf7eecc.png)
 
  4. Video:
+ 
 https://youtu.be/CJO7RLJSP7o
 
 5. Conclusiones:
